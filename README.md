@@ -1,3 +1,3 @@
 # testing-practice
 
-Testing-practice usign Jest library
+Testing-practice using Jest library
